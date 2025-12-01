@@ -23,7 +23,6 @@
                 "简介": "+detail-content\" style=*>&&</span>",
                 "分类url": "https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26#写真$27"
-            }
         },
         {
             "key": "PUA外剧",
@@ -37,7 +36,6 @@
             "ext": {
                 "分类url": "https://www.p-ua.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "欧美剧$26#海外剧$29#日韩剧$16#卡通剧$28#福利剧$49"
-            }
         },
         {
             "key": "奇异",
@@ -120,7 +118,6 @@
                 "简介": "小橙子剧情介绍:+line-height: 20px;\">&&</div>",
                 "分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-            }
         },
         {
             "key": "艾旦影视",
